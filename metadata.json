@@ -1,0 +1,6 @@
+{
+  "name": "Esmalteria&beleza — Agendamento",
+  "description": "Aplicativo direto de agendamento online com painel administrativo completo para gerenciar horários, serviços, profissionais e clientes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
